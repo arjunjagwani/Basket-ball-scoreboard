@@ -2,10 +2,13 @@ body {
     
     margin:0px;
     padding:0px;
+    background-color: lightgoldenrodyellow;
 }
 
 .container {
     display: flex;
+    position:relative;
+    top:25vh;
     flex-direction:column;
     width: 575px;
     height: 385px;
